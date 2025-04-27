@@ -3,3 +3,11 @@ body{
     justify-content: center;
     align-items: center;
 }
+
+h1 {
+    background-color: blue;
+}
+h2 {
+    text-decoration: double;
+    border: 1px solid black;
+}
