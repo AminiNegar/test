@@ -3,5 +3,5 @@ const likefeature = () => {
 }
 
 const signin = (USER) => {
-    return USER
+    return true
 }
