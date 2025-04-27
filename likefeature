@@ -1,3 +1,7 @@
 const likefeature = () => {
     return true
 }
+
+const signin = (USER) => {
+    return USER
+}
